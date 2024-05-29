@@ -26,7 +26,6 @@ const SocialMediaShare = () => {
     const openShareWindow = (url) => {
         window.open(url, '_blank', 'width=600,height=400');
     };
-
     return (
         <div>
             <div onClick={openModal} className="fixed bottom-0 transform z-50 flex items-center justify-center hover:border-blue-600 hover:border-l-6 border-l-4 hover:p-6 transition-all p-2 bg-slate-800 rounded-tl-2xl right-0">
