@@ -1,3 +1,22 @@
+
+
+get started :
+1 download or clone repo ; 
+2 npm install ; 
+set env 
+3 .env > 
+
+VITE_APIKEY = AIzaSyDZNhzdFIgWDbbuZmQg5aCs44VF6FkdAcY 
+VITE_APPID = 1:751632033149:web:66cd5ec0dfa866678b5814
+{here is firebase things for programming hero review}
+
+4 npm run dev
+
+
+
+
+
+
 # [ShareBite](https://assignment-11-f266c.web.app/) - Food Sharing Website
 
 ShareBite is a web platform where users can share food with those in need. It provides a seamless interface for donors to contribute food and for hungry individuals to request and receive assistance.
