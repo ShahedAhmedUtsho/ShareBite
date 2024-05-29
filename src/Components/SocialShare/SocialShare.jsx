@@ -15,7 +15,7 @@ const SocialMediaShare = () => {
     };
 
     // Replace 'https://yourcostumeurl.com' with your actual costume URL
-    const costumeUrl = 'https://yourcostumeurl.com';
+    const costumeUrl = 'https://assignment-11-f266c.web.app/availablefoods';
 
     const postDescription = "Check out our food sharing platform! Share surplus food to help those in need, or find free food donations near you. Together, we can reduce food waste and hunger.";
 
